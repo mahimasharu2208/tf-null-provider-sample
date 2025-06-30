@@ -11,6 +11,9 @@ This is a basic Terraform example that uses the [`null` provider](https://regist
 ```bash
 terraform init
 terraform apply
+```
 
 ## Results
-![output]()
+![output](https://github.com/mahimasharu2208/tf-null-provider-sample/blob/main/outputs/null1.png)
+![output](https://github.com/mahimasharu2208/tf-null-provider-sample/blob/main/outputs/null2.png)
+
